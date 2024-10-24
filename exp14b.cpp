@@ -1,5 +1,5 @@
-//Trijal Burman
-//23070123145
+//Vanshika Singh
+//23070123148
 
 # include <iostream>
 # include <string>
